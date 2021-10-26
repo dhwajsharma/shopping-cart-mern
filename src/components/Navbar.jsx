@@ -81,7 +81,7 @@ const Navbar = () => {
           </SearchContainer>
         </Left>
         <Center>
-          <Logo>DHWAJ.</Logo>
+          <Logo>E-COMMERCE</Logo>
         </Center>
         <Right>
           <MenuItem>REGISTER</MenuItem>

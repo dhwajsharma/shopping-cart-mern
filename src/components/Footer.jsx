@@ -82,7 +82,7 @@ const Footer = () => {
   return (
     <Container>
       <Left>
-        <Logo>DHWAJ.</Logo>
+        <Logo>E-COMMERCE</Logo>
         <Desc>
           There are many variations of passages of Lorem Ipsum available, but
           the majority have suffered alteration in some form, by injected
@@ -121,11 +121,10 @@ const Footer = () => {
           <Room style={{ marginRight: "10px" }} /> C Scheme, Jaipur, 302001
         </ContactItem>
         <ContactItem>
-          <Phone style={{ marginRight: "10px" }} /> +91 88244 53942
+          <Phone style={{ marginRight: "10px" }} /> +91 00000 11111
         </ContactItem>
         <ContactItem>
-          <MailOutline style={{ marginRight: "10px" }} />{" "}
-          dhwajsharma10@gmail.com
+          <MailOutline style={{ marginRight: "10px" }} /> test@gmail.com
         </ContactItem>
         <Payment src="https://i.ibb.co/Qfvn4z6/payment.png" />
       </Right>
